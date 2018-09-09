@@ -4,5 +4,5 @@ class a:
   def printme(self):
     print("name is :",self.a)
     
-names=a("git")
+names=a("jok")
 names.printme()
